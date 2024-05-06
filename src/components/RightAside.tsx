@@ -32,10 +32,10 @@ const RightAside = () => {
         <div>
           <Card shadow="none" radius="sm" className="border">
             <CardHeader className="text-2xl font-bold">
-              TEN Community is a community of amazing developers
+              QUIRX is a community of amazing bloggers
             </CardHeader>
             <CardBody>
-              We&apos;re a place where coders share, stay up-to-date and grow
+              We&apos;re a place where bloggers share, stay up-to-date and grow
               their careers.
             </CardBody>
             <CardFooter className="flex-col gap-4">
