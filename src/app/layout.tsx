@@ -5,7 +5,7 @@ import Analytics from "@/components/Analytics";
 import { Inter } from "next/font/google";
 
 export const metadata: Metadata = {
-  title: "Next blog | Home",
+  title: "Quirx | Home",
   description: "A Next.js blog app where user can read and write blog posts",
 };
 
