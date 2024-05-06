@@ -59,7 +59,7 @@ const Navbar = () => {
               radius="sm"
               className=" bg-black/90 text-white"
             >
-              TEN
+              Quirx
             </Button>
           </NavbarBrand>
           {/* ---SEARCH BAR--- */}
